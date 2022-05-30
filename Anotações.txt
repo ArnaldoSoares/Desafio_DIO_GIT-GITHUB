@@ -1,0 +1,8 @@
+Comando Utilizados para Git
+
+Git Status - Verifica o status do repositorio,em que estado estado, ex: se ja foi comitado
+git add * - add ao repositorio, encaminhado para ser comitado
+git commit -m "" - comita o respositorio
+git push origin nome do branch - empurra para o github(Servidor), apos ser comitado
+git pull - puxa o respositorio do github, caso tenha algum conflito, para que seja resolvido localmente
+git clone https://.... - clona o repositori do github para o repotorio local
